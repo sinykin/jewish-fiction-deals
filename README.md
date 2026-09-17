@@ -1,6 +1,6 @@
 # Jewish Fiction Deals, 2000–2026
 
-`MASTER_Jewish_Fiction_Deals_AllPresses_CONTENT.csv` lists 406 fiction book deals reported to Publishers Marketplace (2000–2026) whose deal announcements mention Jewish or Israeli content, across all presses.
+`MASTER_Jewish_Fiction_Deals_AllPresses_CONTENT.csv` lists 407 fiction book deals reported to Publishers Marketplace (2000–2026) whose deal announcements mention Jewish or Israeli content, across all presses.
 
 ## Columns
 
